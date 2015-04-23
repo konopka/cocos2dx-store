@@ -2,7 +2,9 @@
 #ifndef __CCStoreEventDispatcher_H_
 #define __CCStoreEventDispatcher_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCVirtualGood.h"
 #include "CCVirtualCurrency.h"
 #include "CCPurchasableVirtualItem.h"

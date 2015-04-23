@@ -16,6 +16,7 @@
 
 #include "CCNativeSoomlaStore.h"
 #include "CCNdkBridge.h"
+#include "deprecated/CCBool.h"
 
 namespace soomla {
     

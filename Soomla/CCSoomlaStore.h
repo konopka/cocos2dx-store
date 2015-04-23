@@ -18,7 +18,7 @@
 #ifndef __CCSoomlaStore_H_
 #define __CCSoomlaStore_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
 #include "CCStoreAssets.h"
 #include "CCError.h"
 

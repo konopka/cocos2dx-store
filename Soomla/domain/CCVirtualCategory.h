@@ -20,7 +20,10 @@
 #define __CCVirtualCategory_H_
 
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
+
 #include "CCSoomlaMacros.h"
 #include "CCDomain.h"
 #include "CCStoreConsts.h"

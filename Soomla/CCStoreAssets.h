@@ -18,7 +18,7 @@
 #define __CCStoreAssets_H_
 
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
 
 namespace soomla {
 	/** @class CCStoreAssets

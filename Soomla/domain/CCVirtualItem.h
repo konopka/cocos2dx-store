@@ -19,12 +19,13 @@
 #ifndef __CCVirtualItem_H__
 #define __CCVirtualItem_H__
 
-#include "cocos2d.h"
 #include "CCDomain.h"
 #include "CCStoreConsts.h"
 #include "CCSoomlaMacros.h"
 #include "CCSoomlaEntity.h"
 #include "CCError.h"
+
+#include "deprecated/CCString.h"
 
 namespace soomla {
 	/** 

@@ -17,7 +17,7 @@
 #ifndef __CCVirtualItemStorage_H__
 #define __CCVirtualItemStorage_H__
 
-#include "cocos2d.h"
+#include "base/CCRef.h"
 #include "CCVirtualItem.h"
 #include "CCError.h"
 

@@ -20,6 +20,7 @@
 #define __CCPurchaseWithVirtualItem_H_
 
 #include "CCPurchaseType.h"
+#include "deprecated/CCInteger.h"
 
 namespace soomla {
 	/** 

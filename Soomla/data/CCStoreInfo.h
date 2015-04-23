@@ -19,7 +19,9 @@
 #ifndef __CCStoreInfo_H_
 #define __CCStoreInfo_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
 #include "CCStoreAssets.h"
 #include "../domain/CCVirtualItem.h"
 #include "../domain/virtualGoods/CCUpgradeVG.h"

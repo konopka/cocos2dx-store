@@ -19,7 +19,7 @@
 #ifndef __CCPurchaseType__
 #define __CCPurchaseType__
 
-#include "cocos2d.h"
+#include "deprecated/CCString.h"
 #include "CCError.h"
 
 namespace soomla {

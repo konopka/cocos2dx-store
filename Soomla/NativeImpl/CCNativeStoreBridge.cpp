@@ -17,6 +17,7 @@
 #include "CCNativeStoreBridge.h"
 #include "CCNdkBridge.h"
 #include "CCSoomlaUtils.h"
+#include "deprecated/CCBool.h"
 
 #if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID)
 #include "platform/android/jni/JniHelper.h"

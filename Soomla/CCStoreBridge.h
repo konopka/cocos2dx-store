@@ -4,7 +4,7 @@
 #define __CCStoreBridge_H_
 
 
-#include "cocos2d.h"
+#include "deprecated/CCDictionary.h"
 #include "CCStoreAssets.h"
 
 namespace soomla {

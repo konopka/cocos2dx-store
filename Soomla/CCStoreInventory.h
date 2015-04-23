@@ -18,7 +18,10 @@
 #ifndef __CCStoreInventory_H_
 #define __CCStoreInventory_H_
 
-#include "cocos2d.h"
+#include "deprecated/CCArray.h"
+#include "deprecated/CCDictionary.h"
+#include "deprecated/CCString.h"
+
 #include "CCError.h"
 #include "CCVirtualGood.h"
 #include "CCUpgradeVG.h"
